@@ -1,5 +1,7 @@
 # hyper-wallace
 
+[![Project: Wallace](https://img.shields.io/badge/Project-Wallace-29c87d.svg)](https://www.projectwallace.com/oss)
+
 Hyper theme based on [Project Wallace](https://www.projectwallace.com)
 
 ![Screenshot](screenshot.png)
